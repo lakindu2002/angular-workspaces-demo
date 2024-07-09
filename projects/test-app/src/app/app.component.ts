@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { ButtonComponent } from "../../../design-system/elements/button/button.component";
+import { ButtonComponent } from "../../../design-system/src/lib/elements/button/button.component";
 
 @Component({
   selector: 'app-root',
